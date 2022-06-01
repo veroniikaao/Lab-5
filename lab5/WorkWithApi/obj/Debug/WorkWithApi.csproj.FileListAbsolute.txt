@@ -1,0 +1,193 @@
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\WorkWithApi.exe.config
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\WorkWithApi.exe
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\WorkWithApi.pdb
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.Form1.resources
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.Properties.Resources.resources
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.exe
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.pdb
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.csproj.App.config
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\RestSharp.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Buffers.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Memory.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Security.AccessControl.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Security.Permissions.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Text.Json.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.ValueTuple.dll
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Buffers.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Memory.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Security.AccessControl.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Security.Permissions.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Text.Json.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\System.ValueTuple.xml
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\obj\Debug\WorkWithApi.csproj.CopyComplete
+C:\Users\artem\Desktop\ПАПКА\Yep\Labs\Lab5\WorkWithApi\WorkWithApi\bin\Debug\RestSharp.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\WorkWithApi.exe.config
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\WorkWithApi.exe
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\WorkWithApi.pdb
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\RestSharp.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Buffers.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Memory.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Security.Permissions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Text.Json.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.ValueTuple.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\RestSharp.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Buffers.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Memory.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Security.Permissions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Text.Json.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\bin\Debug\System.ValueTuple.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.csproj.App.config
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.csproj.AssemblyReference.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.Form1.resources
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.Properties.Resources.resources
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.csproj.GenerateResource.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.csproj.CopyComplete
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.exe
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\WorkWithApi\obj\Debug\WorkWithApi.pdb
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\WorkWithApi.exe.config
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\WorkWithApi.exe
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\WorkWithApi.pdb
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\RestSharp.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Buffers.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Memory.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Security.Permissions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Text.Json.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.ValueTuple.dll
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\RestSharp.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Buffers.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Memory.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Security.Permissions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Text.Json.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\bin\Debug\System.ValueTuple.xml
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.csproj.App.config
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.csproj.AssemblyReference.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.Form1.resources
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.Properties.Resources.resources
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.csproj.GenerateResource.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.csproj.CopyComplete
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.exe
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\form5\lab5\WorkWithApi\obj\Debug\WorkWithApi.pdb
